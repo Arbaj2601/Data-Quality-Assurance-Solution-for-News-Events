@@ -1,0 +1,14 @@
+metric,value,computed_at,run_name
+completeness__event_id,0.9308080808080808,2025-09-02T15:46:37.987063,before_cleaning
+completeness__title,0.95,2025-09-02T15:46:37.987063,before_cleaning
+completeness__url,0.9217171717171717,2025-09-02T15:46:37.987063,before_cleaning
+completeness__published_at,0.95,2025-09-02T15:46:37.987063,before_cleaning
+completeness__ingested_at,0.95,2025-09-02T15:46:37.987063,before_cleaning
+completeness__source,0.95,2025-09-02T15:46:37.987063,before_cleaning
+completeness__category,0.8651515151515151,2025-09-02T15:46:37.987063,before_cleaning
+completeness__language,0.7681818181818182,2025-09-02T15:46:37.987063,before_cleaning
+validity__url_format,0.9217171717171717,2025-09-02T15:46:37.987063,before_cleaning
+validity__language_code,0.7681818181818182,2025-09-02T15:46:37.987063,before_cleaning
+consistency__publish_le_ingest,0.95,2025-09-02T15:46:37.987063,before_cleaning
+uniqueness__duplicate_event_id_rate,0.0,2025-09-02T15:46:37.987063,before_cleaning
+uniqueness__duplicate_title_url_rate,0.0,2025-09-02T15:46:37.987063,before_cleaning
